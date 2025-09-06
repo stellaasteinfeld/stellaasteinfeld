@@ -42,7 +42,7 @@ new StellaSteinfeld().greet();
 ---
 
 ## 🌐 Connect with me
-- [LinkedIn]([https://www.linkedin.com/in/stella-steinfeld-bb5b8796/])
+- [LinkedIn] https://www.linkedin.com/in/stella-steinfeld-bb5b8796
 - [Portfolio](https://stellasteinfeld.me)
 
 ---
