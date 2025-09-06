@@ -5,7 +5,7 @@ class StellaSteinfeld extends FullstackEngineer {
   constructor() {
     this.name = "Stella Steinfeld";
     this.location = "Montevideo, Uruguay";
-    this.languages = ["Spanish", "English"];
+    this.languages = ["Spanish", "English", "Portuguese"];
     this.role = "Fullstack Engineer";
     this.frameworks = ["React", "Vue", "Angular", "Node.js"];
     this.databases = ["MySQL", "PostgreSQL", "Oracle"];
