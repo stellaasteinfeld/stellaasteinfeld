@@ -1,3 +1,7 @@
+> “Try and leave this world a little better than you found it.”
+> — Robert Baden-Powell
+
+
 # Hi, I'm Stella 👋
 
 ```js
